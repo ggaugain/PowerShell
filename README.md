@@ -7,3 +7,8 @@ check an url http status code and find a word in the html result
 * 3 minutes (timeout)
 
 > Usage : .\UrlCheck.ps1 https://my-website.com SearchString
+
+## TelnetPort.ps1
+Check if a tcp port is open on a target server.
+
+> Usage : .\TelnetPort.ps1 <address IP or dns> <port_tcp>

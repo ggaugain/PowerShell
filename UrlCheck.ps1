@@ -84,5 +84,5 @@ Try {
 	CheckPage $target $SearchString
 }
 Catch {
-  Write-Host "An error occured, copy aborted : $_" -fore Red
+  Write-Host "An error occured, test aborted : $_" -fore Red
 }
