@@ -11,4 +11,4 @@ check an url http status code and find a word in the html result
 ## TelnetPort.ps1
 Check if a tcp port is open on a target server.
 
-> Usage : .\TelnetPort.ps1 <address IP or dns> <port_tcp>
+> Usage : .\TelnetPort.ps1 (address IP or dns) (port_tcp)
